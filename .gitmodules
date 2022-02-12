@@ -1,0 +1,12 @@
+[submodule "lib/curve_mapping"]
+	path = lib/curve_mapping
+	url = https://github.com/jamesvsnowden/bl_curve_mapping.git
+[submodule "lib/driver_utils"]
+	path = lib/driver_utils
+	url = https://github.com/jamesvsnowden/bl_driver_utils.git
+[submodule "lib/transform_utils"]
+	path = lib/transform_utils
+	url = https://github.com/jamesvsnowden/bl_transform_utils.git
+[submodule "lib/symmetry"]
+	path = lib/symmetry
+	url = https://github.com/jamesvsnowden/bl_symmetry.git
